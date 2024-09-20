@@ -39,11 +39,7 @@ class Node:
 
 class DoublyLinkedList:
     """
-    Your doubly linked list code goes here.
-    Note that any time you see `Any` in the type annotations,
-    this refers to the "data" stored inside a Node.
-
-    [V3: Note that this API was changed in the V3 spec] 
+    A doubly linked list that supports the storage of a Node type.
     """
     def __init__(self) -> None:
         # You probably need to track some data here...

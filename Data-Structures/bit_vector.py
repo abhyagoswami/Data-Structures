@@ -6,7 +6,7 @@ Joel Mackenzie and Vladimir Morozov
 
 from typing import Any
 
-from structures.dynamic_array import DynamicArray
+from dynamic_array import DynamicArray
 
 
 class BitVector:
