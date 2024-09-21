@@ -15,4 +15,4 @@
 # Instructions
 1. Download folder.
 2. Go to test.py in Data-Structures folder and run it (provided tests).
-3. Modify or extend tests as required,or create new test based on functionality needed.
+3. Modify or extend tests as required, or create new tests based on functionality needed.
